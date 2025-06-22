@@ -1,5 +1,4 @@
-
-# 🧠 Quiz Game Matematika (PHP & MySQL)
+# 🧠 Quiz Game Matematika
 
 **Quiz Game Matematika** adalah game edukatif berbasis web untuk melatih kemampuan berhitung pengguna (penjumlahan, pengurangan, perkalian, pembagian). Aplikasi ini memiliki 20 level, masing-masing terdiri dari 10 soal yang ditampilkan secara satu per satu. Cocok untuk latihan siswa dan pengujian kemampuan logika dasar.
 
@@ -15,7 +14,6 @@
   - Benar: lanjut ke soal berikutnya
   - Salah: tidak bisa lanjut sebelum benar
 - 👤 **Halaman Profil**
-- 🎨 **UI warna biru-putih**, elegan dan responsif
 
 ---
 
@@ -106,17 +104,5 @@ Password: kadal2323
 
 ## 🧑‍💻 Kontributor
 
-- **Developer:** Elza (elza23)
-- **Tester:** Manual QA Team
-- **Desainer UI:** Internal CSS Developer
-
----
-
-## 📄 Lisensi
-
-MIT License © 2025 — Bebas digunakan, disesuaikan, dan dikembangkan untuk edukasi atau non-komersial.
-
----
-
-> **Catatan Tambahan:**  
-> Jika soal tidak muncul atau error saat submit, cek koneksi database (`includes/koneksi.php`) dan pastikan semua file sudah berada di direktori yang tepat di localhost.
+- **Programer:** Elsa Nur Aripin
+- **Tester:** M.suara tansa
